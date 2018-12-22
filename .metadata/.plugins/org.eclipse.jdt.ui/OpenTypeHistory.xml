@@ -1,2 +1,21 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+<typeInfo handle="=WebFilters/C:\/Softwares\/apache-tomcat-9.0.12-windows-x64\/apache-tomcat-9.0.12\/lib\/servlet-api.jar&lt;javax.servlet(Filter.class[Filter" modifiers="1537" timestamp="1540228009627"/>
+<typeInfo handle="=WebFilters/C:\/Program Files\/Java\/jre1.8.0_192\/lib\/rt.jar&lt;java.util.logging(Filter.class[Filter" modifiers="1537" timestamp="1540228761971"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.Strategy.cart{PaymentStrategy.java[PaymentStrategy" modifiers="513" timestamp="1542217825956"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.Strategy.fighter{KickBehaviour.java[KickBehaviour" modifiers="513" timestamp="1542289447067"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.Strategy.fighter{JumpBehaviour.java[JumpBehaviour" modifiers="513" timestamp="1542289563274"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.Strategy.fighter{Fighter.java[Fighter" modifiers="1025" timestamp="1542289805552"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.observer.Weather{Observer.java[Observer" modifiers="513" timestamp="1542466358328"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.observer.Weather{DisplayElement.java[DisplayElement" modifiers="513" timestamp="1542466082461"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.decorator.beverage{Beverage.java[Beverage" modifiers="1025" timestamp="1543238780711"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.decorator.beverage{CondimentDecorator.java[CondimentDecorator" modifiers="1025" timestamp="1543063159521"/>
+<typeInfo handle="=DesignPatterns/C:\/Program Files\/Java\/jre1.8.0_192\/lib\/rt.jar&lt;java.io(FileInputStream.class[FileInputStream" modifiers="33" timestamp="1540228761971"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.decorator.pizza{ToppingsDecorator.java[ToppingsDecorator" modifiers="1025" timestamp="1543250563062"/>
+<typeInfo handle="=DesignPatterns/C:\/Program Files\/Java\/jre1.8.0_192\/lib\/rt.jar&lt;org.omg.PortableInterceptor(DISCARDING.class[DISCARDING" modifiers="1537" timestamp="1540228761971"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.decorator.car{CarDecorator.java[CarDecorator" modifiers="1025" timestamp="1543599062508"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.decorator.car{Car.java[Car" modifiers="1025" timestamp="1543598623766"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.decorator.pizza{Pizza.java[Pizza" modifiers="1025" timestamp="1543860100750"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.factory.pizza.level2{PizzaStore.java[PizzaStore" modifiers="1025" timestamp="1543860318483"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.factory.pizza.level2{PizzaIngredientFactory.java[PizzaIngredientFactory" modifiers="513" timestamp="1544485994741"/>
+</typeInfoHistroy>
