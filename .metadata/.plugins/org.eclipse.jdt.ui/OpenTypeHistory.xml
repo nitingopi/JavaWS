@@ -18,4 +18,5 @@
 <typeInfo handle="=DesignPatterns/src&lt;com.decorator.pizza{Pizza.java[Pizza" modifiers="1025" timestamp="1543860100750"/>
 <typeInfo handle="=DesignPatterns/src&lt;com.factory.pizza.level2{PizzaStore.java[PizzaStore" modifiers="1025" timestamp="1543860318483"/>
 <typeInfo handle="=DesignPatterns/src&lt;com.factory.pizza.level2{PizzaIngredientFactory.java[PizzaIngredientFactory" modifiers="513" timestamp="1544485994741"/>
+<typeInfo handle="=DesignPatterns/src&lt;com.command.remotecontrol{Command.java[Command" modifiers="513" timestamp="1545345629246"/>
 </typeInfoHistroy>
